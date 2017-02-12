@@ -1,4 +1,4 @@
-# Hotel & Restaurants(*App 1*)
+# Hotel & Restaurants(*App A1*)
 For this App, three individual app will work together in sync. This is the 1st app of the three apps. <br/>
 <br/>
 1. Application A1 consists of a single activity containing two read-only text views and two buttons. The
